@@ -1,0 +1,3 @@
+Here contains the flowsheet (rigorous and linear) model for synthesis gas production through steam methane reforming method simulated in Aspen Plus V10 
+
+Designed by: Zezheng Li 

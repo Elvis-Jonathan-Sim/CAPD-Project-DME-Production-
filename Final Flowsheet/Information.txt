@@ -1,0 +1,7 @@
+Here contains the merged flowsheet (rigorous and linear model) for dimethyl-ether production through synthesis gas simulated in Aspen Plus V.10 
+ 
+
+Author: 
+- Zezheng Li (Synthesis Gas) 
+- Elvis Sim (Methanol Synthesis) 
+- Ilias Chair (Dimethyl-Ether Synthesis) 
