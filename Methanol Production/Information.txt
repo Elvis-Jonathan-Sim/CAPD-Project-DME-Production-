@@ -1,3 +1,3 @@
-Here contains the flowsheet (rigorous and linear) model for methanol synthesis from synthesis gas simulated in Aspen Plus V10
+Here contains the flowsheet (rigorous and linear) model for methanol synthesis from synthesis gas simulated in Aspen Plus V10.
 
 Designed by: Elvis Sim  
