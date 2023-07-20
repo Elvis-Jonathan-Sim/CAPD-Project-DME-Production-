@@ -1,0 +1,479 @@
+
+ *** CALCULATION TRACE ***
+
+
+<set objective = None>
+
+ Report Writer entered                                                            Time =     56.52
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-1 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-1 
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-2 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-2 
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-3 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-3 
+      STREAM R-IN WILL BE FLASHED FOR PROPERTY CALCULATIONS.
+      KODE = 2  NTRIAL =   4  T = 523.1500  P = 7.500000E+06  V =  1.00000      Q =-4.279432E-07
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-1                                   TIME =     56.60
+      KODE = 3  NTRIAL =   4  T = 337.6848  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   6  T = 337.9895  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1674.76    
+      KODE = 3  NTRIAL =   5  T = 338.2964  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1689.50    
+      KODE = 3  NTRIAL =   6  T = 338.6053  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1704.49    
+      KODE = 3  NTRIAL =   6  T = 338.9165  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1719.72    
+      KODE = 3  NTRIAL =   6  T = 339.2300  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1735.21    
+      KODE = 3  NTRIAL =   6  T = 339.5459  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1750.97    
+      KODE = 3  NTRIAL =   6  T = 339.8643  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1766.99    
+      KODE = 3  NTRIAL =   6  T = 340.1855  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1783.28    
+      KODE = 3  NTRIAL =   6  T = 340.5094  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1799.86    
+      KODE = 3  NTRIAL =   6  T = 340.8364  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1816.72    
+      KODE = 3  NTRIAL =   6  T = 341.1665  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1833.88    
+      KODE = 3  NTRIAL =   6  T = 341.5000  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1851.34    
+      KODE = 3  NTRIAL =   6  T = 341.8371  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1869.11    
+      KODE = 3  NTRIAL =   6  T = 342.1781  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1887.20    
+      KODE = 3  NTRIAL =   6  T = 342.5232  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1905.60    
+      KODE = 3  NTRIAL =   6  T = 342.8728  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1924.35    
+      KODE = 3  NTRIAL =   6  T = 343.2273  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1943.43    
+      KODE = 3  NTRIAL =   6  T = 343.5870  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1962.85    
+      KODE = 3  NTRIAL =   6  T = 343.9525  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1982.64    
+      KODE = 3  NTRIAL =   6  T = 344.3242  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2002.79    
+      KODE = 3  NTRIAL =   6  T = 344.7027  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2023.31    
+      KODE = 3  NTRIAL =   6  T = 345.0887  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2044.21    
+      KODE = 3  NTRIAL =   6  T = 345.4830  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2065.50    
+      KODE = 3  NTRIAL =   6  T = 345.8863  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2087.18    
+      KODE = 3  NTRIAL =   6  T = 346.2997  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2109.28    
+      KODE = 3  NTRIAL =   6  T = 346.7242  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2131.78    
+      KODE = 3  NTRIAL =   6  T = 347.1611  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2154.71    
+      KODE = 3  NTRIAL =   6  T = 347.6118  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2178.07    
+      KODE = 3  NTRIAL =   6  T = 348.0779  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2201.86    
+      KODE = 3  NTRIAL =   6  T = 348.5614  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2226.09    
+      KODE = 3  NTRIAL =   6  T = 349.0644  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2250.76    
+      KODE = 3  NTRIAL =   6  T = 349.5894  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2275.88    
+      KODE = 3  NTRIAL =   6  T = 350.1393  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2301.45    
+      KODE = 3  NTRIAL =   5  T = 350.7176  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2327.47    
+      KODE = 3  NTRIAL =   5  T = 351.3283  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2353.92    
+      KODE = 3  NTRIAL =   5  T = 351.9760  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2380.81    
+      KODE = 3  NTRIAL =   5  T = 352.6664  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2408.11    
+      KODE = 3  NTRIAL =   5  T = 353.4062  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2435.79    
+      KODE = 3  NTRIAL =   5  T = 354.2035  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2463.83    
+      KODE = 3  NTRIAL =   5  T = 355.0682  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2492.16    
+      KODE = 3  NTRIAL =   6  T = 356.0125  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2520.72    
+      KODE = 3  NTRIAL =   5  T = 357.0515  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2549.40    
+      KODE = 3  NTRIAL =   5  T = 358.2043  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2578.05    
+      KODE = 3  NTRIAL =   5  T = 359.4955  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2606.46    
+      KODE = 3  NTRIAL =   5  T = 360.9573  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2634.32    
+      KODE = 3  NTRIAL =   5  T = 362.6330  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2661.19    
+      KODE = 3  NTRIAL =   5  T = 364.5822  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2686.35    
+      KODE = 3  NTRIAL =   5  T = 366.8902  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2708.69    
+      KODE = 3  NTRIAL =   5  T = 369.6846  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2726.36    
+      KODE = 3  NTRIAL =   3  T = 373.1678  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2736.02    
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-2                                   TIME =     56.61
+      KODE = 3  NTRIAL =   4  T = 373.0963  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   5  T = 369.2568  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2745.40    
+      KODE = 3  NTRIAL =   5  T = 366.2681  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2738.94    
+      KODE = 3  NTRIAL =   5  T = 363.8573  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2722.97    
+      KODE = 3  NTRIAL =   5  T = 361.8590  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2701.56    
+      KODE = 3  NTRIAL =   5  T = 360.1667  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2676.92    
+      KODE = 3  NTRIAL =   5  T = 358.7080  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2650.35    
+      KODE = 3  NTRIAL =   5  T = 357.4321  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2622.65    
+      KODE = 3  NTRIAL =   5  T = 356.3019  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2594.33    
+      KODE = 3  NTRIAL =   5  T = 355.2898  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2565.73    
+      KODE = 3  NTRIAL =   5  T = 354.3745  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2537.09    
+      KODE = 3  NTRIAL =   5  T = 353.5397  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2508.57    
+      KODE = 3  NTRIAL =   5  T = 352.7725  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2480.27    
+      KODE = 3  NTRIAL =   5  T = 352.0624  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2452.28    
+      KODE = 3  NTRIAL =   5  T = 351.4010  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2424.65    
+      KODE = 3  NTRIAL =   5  T = 350.7814  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2397.42    
+      KODE = 3  NTRIAL =   6  T = 350.1979  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2370.62    
+      KODE = 3  NTRIAL =   6  T = 349.6457  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2344.27    
+      KODE = 3  NTRIAL =   6  T = 349.1209  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2318.37    
+      KODE = 3  NTRIAL =   6  T = 348.6200  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2292.93    
+      KODE = 3  NTRIAL =   6  T = 348.1403  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2267.95    
+      KODE = 3  NTRIAL =   6  T = 347.6791  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2243.43    
+      KODE = 3  NTRIAL =   6  T = 347.2344  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2219.37    
+      KODE = 3  NTRIAL =   6  T = 346.8044  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2195.76    
+      KODE = 3  NTRIAL =   6  T = 346.3875  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2172.60    
+      KODE = 3  NTRIAL =   6  T = 345.9824  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2149.87    
+      KODE = 3  NTRIAL =   6  T = 345.5877  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2127.58    
+      KODE = 3  NTRIAL =   6  T = 345.2025  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2105.71    
+      KODE = 3  NTRIAL =   6  T = 344.8258  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2084.25    
+      KODE = 3  NTRIAL =   6  T = 344.4569  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2063.19    
+      KODE = 3  NTRIAL =   6  T = 344.0949  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2042.53    
+      KODE = 3  NTRIAL =   6  T = 343.7394  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2022.25    
+      KODE = 3  NTRIAL =   6  T = 343.3896  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2002.34    
+      KODE = 3  NTRIAL =   6  T = 343.0451  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1982.81    
+      KODE = 3  NTRIAL =   6  T = 342.7055  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1963.63    
+      KODE = 3  NTRIAL =   6  T = 342.3703  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1944.80    
+      KODE = 3  NTRIAL =   6  T = 342.0392  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1926.31    
+      KODE = 3  NTRIAL =   6  T = 341.7120  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1908.15    
+      KODE = 3  NTRIAL =   6  T = 341.3882  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1890.31    
+      KODE = 3  NTRIAL =   6  T = 341.0677  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1872.78    
+      KODE = 3  NTRIAL =   6  T = 340.7502  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1855.57    
+      KODE = 3  NTRIAL =   6  T = 340.4355  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1838.65    
+      KODE = 3  NTRIAL =   6  T = 340.1234  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1822.02    
+      KODE = 3  NTRIAL =   7  T = 339.8139  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1805.67    
+      KODE = 3  NTRIAL =   7  T = 339.5066  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1789.60    
+      KODE = 3  NTRIAL =   7  T = 339.2016  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1773.80    
+      KODE = 3  NTRIAL =   6  T = 338.8986  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1758.26    
+      KODE = 3  NTRIAL =   6  T = 338.5976  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1742.97    
+      KODE = 3  NTRIAL =   6  T = 338.2985  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1727.94    
+      KODE = 3  NTRIAL =   6  T = 338.0012  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1713.15    
+      KODE = 3  NTRIAL =   4  T = 337.7056  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1698.59    
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HX-2    
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HX-2    
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK RECUPT  
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK RECUPT  
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK B2      
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK B2      
+
+ Results generated                                                                Time =     56.72
+
+RUN SAVED
+
+
+
+ NO ERRORS OR WARNINGS GENERATED
+
+ Report Writer entered                                                            Time =     63.66
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-1 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-1 
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-2 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-2 
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-3 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-3 
+      STREAM R-IN WILL BE FLASHED FOR PROPERTY CALCULATIONS.
+      KODE = 2  NTRIAL =   4  T = 523.1500  P = 7.500000E+06  V =  1.00000      Q =-4.279432E-07
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-1                                   TIME =     64.01
+      KODE = 3  NTRIAL =   4  T = 337.6848  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   6  T = 337.9895  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1674.76    
+      KODE = 3  NTRIAL =   5  T = 338.2964  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1689.50    
+      KODE = 3  NTRIAL =   6  T = 338.6053  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1704.49    
+      KODE = 3  NTRIAL =   6  T = 338.9165  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1719.72    
+      KODE = 3  NTRIAL =   6  T = 339.2300  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1735.21    
+      KODE = 3  NTRIAL =   6  T = 339.5459  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1750.97    
+      KODE = 3  NTRIAL =   6  T = 339.8643  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1766.99    
+      KODE = 3  NTRIAL =   6  T = 340.1855  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1783.28    
+      KODE = 3  NTRIAL =   6  T = 340.5094  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1799.86    
+      KODE = 3  NTRIAL =   6  T = 340.8364  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1816.72    
+      KODE = 3  NTRIAL =   6  T = 341.1665  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1833.88    
+      KODE = 3  NTRIAL =   6  T = 341.5000  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1851.34    
+      KODE = 3  NTRIAL =   6  T = 341.8371  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1869.11    
+      KODE = 3  NTRIAL =   6  T = 342.1781  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1887.20    
+      KODE = 3  NTRIAL =   6  T = 342.5232  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1905.60    
+      KODE = 3  NTRIAL =   6  T = 342.8728  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1924.35    
+      KODE = 3  NTRIAL =   6  T = 343.2273  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1943.43    
+      KODE = 3  NTRIAL =   6  T = 343.5870  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1962.85    
+      KODE = 3  NTRIAL =   6  T = 343.9525  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1982.64    
+      KODE = 3  NTRIAL =   6  T = 344.3242  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2002.79    
+      KODE = 3  NTRIAL =   6  T = 344.7027  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2023.31    
+      KODE = 3  NTRIAL =   6  T = 345.0887  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2044.21    
+      KODE = 3  NTRIAL =   6  T = 345.4830  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2065.50    
+      KODE = 3  NTRIAL =   6  T = 345.8863  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2087.18    
+      KODE = 3  NTRIAL =   6  T = 346.2997  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2109.28    
+      KODE = 3  NTRIAL =   6  T = 346.7242  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2131.78    
+      KODE = 3  NTRIAL =   6  T = 347.1611  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2154.71    
+      KODE = 3  NTRIAL =   6  T = 347.6118  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2178.07    
+      KODE = 3  NTRIAL =   6  T = 348.0779  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2201.86    
+      KODE = 3  NTRIAL =   6  T = 348.5614  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2226.09    
+      KODE = 3  NTRIAL =   6  T = 349.0644  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2250.76    
+      KODE = 3  NTRIAL =   6  T = 349.5894  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2275.88    
+      KODE = 3  NTRIAL =   6  T = 350.1393  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2301.45    
+      KODE = 3  NTRIAL =   5  T = 350.7176  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2327.47    
+      KODE = 3  NTRIAL =   5  T = 351.3283  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2353.92    
+      KODE = 3  NTRIAL =   5  T = 351.9760  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2380.81    
+      KODE = 3  NTRIAL =   5  T = 352.6664  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2408.11    
+      KODE = 3  NTRIAL =   5  T = 353.4062  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2435.79    
+      KODE = 3  NTRIAL =   5  T = 354.2035  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2463.83    
+      KODE = 3  NTRIAL =   5  T = 355.0682  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2492.16    
+      KODE = 3  NTRIAL =   6  T = 356.0125  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2520.72    
+      KODE = 3  NTRIAL =   5  T = 357.0515  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2549.40    
+      KODE = 3  NTRIAL =   5  T = 358.2043  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2578.05    
+      KODE = 3  NTRIAL =   5  T = 359.4955  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2606.46    
+      KODE = 3  NTRIAL =   5  T = 360.9573  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2634.32    
+      KODE = 3  NTRIAL =   5  T = 362.6330  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2661.19    
+      KODE = 3  NTRIAL =   5  T = 364.5822  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2686.35    
+      KODE = 3  NTRIAL =   5  T = 366.8902  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2708.69    
+      KODE = 3  NTRIAL =   5  T = 369.6846  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2726.36    
+      KODE = 3  NTRIAL =   3  T = 373.1678  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2736.02    
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-2                                   TIME =     64.02
+      KODE = 3  NTRIAL =   4  T = 373.0963  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   5  T = 369.2568  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2745.40    
+      KODE = 3  NTRIAL =   5  T = 366.2681  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2738.94    
+      KODE = 3  NTRIAL =   5  T = 363.8573  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2722.97    
+      KODE = 3  NTRIAL =   5  T = 361.8590  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2701.56    
+      KODE = 3  NTRIAL =   5  T = 360.1667  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2676.92    
+      KODE = 3  NTRIAL =   5  T = 358.7080  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2650.35    
+      KODE = 3  NTRIAL =   5  T = 357.4321  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2622.65    
+      KODE = 3  NTRIAL =   5  T = 356.3019  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2594.33    
+      KODE = 3  NTRIAL =   5  T = 355.2898  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2565.73    
+      KODE = 3  NTRIAL =   5  T = 354.3745  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2537.09    
+      KODE = 3  NTRIAL =   5  T = 353.5397  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2508.57    
+      KODE = 3  NTRIAL =   5  T = 352.7725  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2480.27    
+      KODE = 3  NTRIAL =   5  T = 352.0624  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2452.28    
+      KODE = 3  NTRIAL =   5  T = 351.4010  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2424.65    
+      KODE = 3  NTRIAL =   5  T = 350.7814  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2397.42    
+      KODE = 3  NTRIAL =   6  T = 350.1979  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2370.62    
+      KODE = 3  NTRIAL =   6  T = 349.6457  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2344.27    
+      KODE = 3  NTRIAL =   6  T = 349.1209  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2318.37    
+      KODE = 3  NTRIAL =   6  T = 348.6200  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2292.93    
+      KODE = 3  NTRIAL =   6  T = 348.1403  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2267.95    
+      KODE = 3  NTRIAL =   6  T = 347.6791  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2243.43    
+      KODE = 3  NTRIAL =   6  T = 347.2344  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2219.37    
+      KODE = 3  NTRIAL =   6  T = 346.8044  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2195.76    
+      KODE = 3  NTRIAL =   6  T = 346.3875  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2172.60    
+      KODE = 3  NTRIAL =   6  T = 345.9824  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2149.87    
+      KODE = 3  NTRIAL =   6  T = 345.5877  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2127.58    
+      KODE = 3  NTRIAL =   6  T = 345.2025  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2105.71    
+      KODE = 3  NTRIAL =   6  T = 344.8258  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2084.25    
+      KODE = 3  NTRIAL =   6  T = 344.4569  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2063.19    
+      KODE = 3  NTRIAL =   6  T = 344.0949  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2042.53    
+      KODE = 3  NTRIAL =   6  T = 343.7394  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2022.25    
+      KODE = 3  NTRIAL =   6  T = 343.3896  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2002.34    
+      KODE = 3  NTRIAL =   6  T = 343.0451  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1982.81    
+      KODE = 3  NTRIAL =   6  T = 342.7055  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1963.63    
+      KODE = 3  NTRIAL =   6  T = 342.3703  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1944.80    
+      KODE = 3  NTRIAL =   6  T = 342.0392  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1926.31    
+      KODE = 3  NTRIAL =   6  T = 341.7120  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1908.15    
+      KODE = 3  NTRIAL =   6  T = 341.3882  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1890.31    
+      KODE = 3  NTRIAL =   6  T = 341.0677  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1872.78    
+      KODE = 3  NTRIAL =   6  T = 340.7502  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1855.57    
+      KODE = 3  NTRIAL =   6  T = 340.4355  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1838.65    
+      KODE = 3  NTRIAL =   6  T = 340.1234  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1822.02    
+      KODE = 3  NTRIAL =   7  T = 339.8139  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1805.67    
+      KODE = 3  NTRIAL =   7  T = 339.5066  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1789.60    
+      KODE = 3  NTRIAL =   7  T = 339.2016  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1773.80    
+      KODE = 3  NTRIAL =   6  T = 338.8986  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1758.26    
+      KODE = 3  NTRIAL =   6  T = 338.5976  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1742.97    
+      KODE = 3  NTRIAL =   6  T = 338.2985  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1727.94    
+      KODE = 3  NTRIAL =   6  T = 338.0012  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1713.15    
+      KODE = 3  NTRIAL =   4  T = 337.7056  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1698.59    
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HX-2    
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HX-2    
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK RECUPT  
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK RECUPT  
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK B2      
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK B2      
+
+ Results generated                                                                Time =     64.32
+
+ Report Writer entered                                                            Time =     68.96
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-1 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-1 
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-2 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-2 
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HEATX-3 
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HEATX-3 
+      STREAM R-IN WILL BE FLASHED FOR PROPERTY CALCULATIONS.
+      KODE = 2  NTRIAL =   4  T = 523.1500  P = 7.500000E+06  V =  1.00000      Q =-4.279432E-07
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-1                                   TIME =     69.21
+      KODE = 3  NTRIAL =   4  T = 337.6848  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   6  T = 337.9895  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1674.76    
+      KODE = 3  NTRIAL =   5  T = 338.2964  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1689.50    
+      KODE = 3  NTRIAL =   6  T = 338.6053  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1704.49    
+      KODE = 3  NTRIAL =   6  T = 338.9165  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1719.72    
+      KODE = 3  NTRIAL =   6  T = 339.2300  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1735.21    
+      KODE = 3  NTRIAL =   6  T = 339.5459  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1750.97    
+      KODE = 3  NTRIAL =   6  T = 339.8643  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1766.99    
+      KODE = 3  NTRIAL =   6  T = 340.1855  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1783.28    
+      KODE = 3  NTRIAL =   6  T = 340.5094  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1799.86    
+      KODE = 3  NTRIAL =   6  T = 340.8364  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1816.72    
+      KODE = 3  NTRIAL =   6  T = 341.1665  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1833.88    
+      KODE = 3  NTRIAL =   6  T = 341.5000  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1851.34    
+      KODE = 3  NTRIAL =   6  T = 341.8371  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1869.11    
+      KODE = 3  NTRIAL =   6  T = 342.1781  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1887.20    
+      KODE = 3  NTRIAL =   6  T = 342.5232  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1905.60    
+      KODE = 3  NTRIAL =   6  T = 342.8728  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1924.35    
+      KODE = 3  NTRIAL =   6  T = 343.2273  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1943.43    
+      KODE = 3  NTRIAL =   6  T = 343.5870  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1962.85    
+      KODE = 3  NTRIAL =   6  T = 343.9525  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -1982.64    
+      KODE = 3  NTRIAL =   6  T = 344.3242  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2002.79    
+      KODE = 3  NTRIAL =   6  T = 344.7027  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2023.31    
+      KODE = 3  NTRIAL =   6  T = 345.0887  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2044.21    
+      KODE = 3  NTRIAL =   6  T = 345.4830  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2065.50    
+      KODE = 3  NTRIAL =   6  T = 345.8863  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2087.18    
+      KODE = 3  NTRIAL =   6  T = 346.2997  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2109.28    
+      KODE = 3  NTRIAL =   6  T = 346.7242  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2131.78    
+      KODE = 3  NTRIAL =   6  T = 347.1611  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2154.71    
+      KODE = 3  NTRIAL =   6  T = 347.6118  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2178.07    
+      KODE = 3  NTRIAL =   6  T = 348.0779  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2201.86    
+      KODE = 3  NTRIAL =   6  T = 348.5614  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2226.09    
+      KODE = 3  NTRIAL =   6  T = 349.0644  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2250.76    
+      KODE = 3  NTRIAL =   6  T = 349.5894  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2275.88    
+      KODE = 3  NTRIAL =   6  T = 350.1393  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2301.45    
+      KODE = 3  NTRIAL =   5  T = 350.7176  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2327.47    
+      KODE = 3  NTRIAL =   5  T = 351.3283  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2353.92    
+      KODE = 3  NTRIAL =   5  T = 351.9760  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2380.81    
+      KODE = 3  NTRIAL =   5  T = 352.6664  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2408.11    
+      KODE = 3  NTRIAL =   5  T = 353.4062  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2435.79    
+      KODE = 3  NTRIAL =   5  T = 354.2035  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2463.83    
+      KODE = 3  NTRIAL =   5  T = 355.0682  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2492.16    
+      KODE = 3  NTRIAL =   6  T = 356.0125  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2520.72    
+      KODE = 3  NTRIAL =   5  T = 357.0515  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2549.40    
+      KODE = 3  NTRIAL =   5  T = 358.2043  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2578.05    
+      KODE = 3  NTRIAL =   5  T = 359.4955  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2606.46    
+      KODE = 3  NTRIAL =   5  T = 360.9573  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2634.32    
+      KODE = 3  NTRIAL =   5  T = 362.6330  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2661.19    
+      KODE = 3  NTRIAL =   5  T = 364.5822  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2686.35    
+      KODE = 3  NTRIAL =   5  T = 366.8902  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2708.69    
+      KODE = 3  NTRIAL =   5  T = 369.6846  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2726.36    
+      KODE = 3  NTRIAL =   3  T = 373.1678  P =  101325.      V =  0.00000      BETA =  1.00000      Q = -2736.02    
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-2                                   TIME =     69.21
+      KODE = 3  NTRIAL =   4  T = 373.0963  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   5  T = 369.2568  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2745.40    
+      KODE = 3  NTRIAL =   5  T = 366.2681  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2738.94    
+      KODE = 3  NTRIAL =   5  T = 363.8573  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2722.97    
+      KODE = 3  NTRIAL =   5  T = 361.8590  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2701.56    
+      KODE = 3  NTRIAL =   5  T = 360.1667  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2676.92    
+      KODE = 3  NTRIAL =   5  T = 358.7080  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2650.35    
+      KODE = 3  NTRIAL =   5  T = 357.4321  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2622.65    
+      KODE = 3  NTRIAL =   5  T = 356.3019  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2594.33    
+      KODE = 3  NTRIAL =   5  T = 355.2898  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2565.73    
+      KODE = 3  NTRIAL =   5  T = 354.3745  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2537.09    
+      KODE = 3  NTRIAL =   5  T = 353.5397  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2508.57    
+      KODE = 3  NTRIAL =   5  T = 352.7725  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2480.27    
+      KODE = 3  NTRIAL =   5  T = 352.0624  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2452.28    
+      KODE = 3  NTRIAL =   5  T = 351.4010  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2424.65    
+      KODE = 3  NTRIAL =   5  T = 350.7814  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2397.42    
+      KODE = 3  NTRIAL =   6  T = 350.1979  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2370.62    
+      KODE = 3  NTRIAL =   6  T = 349.6457  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2344.27    
+      KODE = 3  NTRIAL =   6  T = 349.1209  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2318.37    
+      KODE = 3  NTRIAL =   6  T = 348.6200  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2292.93    
+      KODE = 3  NTRIAL =   6  T = 348.1403  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2267.95    
+      KODE = 3  NTRIAL =   6  T = 347.6791  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2243.43    
+      KODE = 3  NTRIAL =   6  T = 347.2344  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2219.37    
+      KODE = 3  NTRIAL =   6  T = 346.8044  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2195.76    
+      KODE = 3  NTRIAL =   6  T = 346.3875  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2172.60    
+      KODE = 3  NTRIAL =   6  T = 345.9824  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2149.87    
+      KODE = 3  NTRIAL =   6  T = 345.5877  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2127.58    
+      KODE = 3  NTRIAL =   6  T = 345.2025  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2105.71    
+      KODE = 3  NTRIAL =   6  T = 344.8258  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2084.25    
+      KODE = 3  NTRIAL =   6  T = 344.4569  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2063.19    
+      KODE = 3  NTRIAL =   6  T = 344.0949  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2042.53    
+      KODE = 3  NTRIAL =   6  T = 343.7394  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2022.25    
+      KODE = 3  NTRIAL =   6  T = 343.3896  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2002.34    
+      KODE = 3  NTRIAL =   6  T = 343.0451  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1982.81    
+      KODE = 3  NTRIAL =   6  T = 342.7055  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1963.63    
+      KODE = 3  NTRIAL =   6  T = 342.3703  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1944.80    
+      KODE = 3  NTRIAL =   6  T = 342.0392  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1926.31    
+      KODE = 3  NTRIAL =   6  T = 341.7120  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1908.15    
+      KODE = 3  NTRIAL =   6  T = 341.3882  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1890.31    
+      KODE = 3  NTRIAL =   6  T = 341.0677  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1872.78    
+      KODE = 3  NTRIAL =   6  T = 340.7502  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1855.57    
+      KODE = 3  NTRIAL =   6  T = 340.4355  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1838.65    
+      KODE = 3  NTRIAL =   6  T = 340.1234  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1822.02    
+      KODE = 3  NTRIAL =   7  T = 339.8139  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1805.67    
+      KODE = 3  NTRIAL =   7  T = 339.5066  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1789.60    
+      KODE = 3  NTRIAL =   7  T = 339.2016  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1773.80    
+      KODE = 3  NTRIAL =   6  T = 338.8986  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1758.26    
+      KODE = 3  NTRIAL =   6  T = 338.5976  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1742.97    
+      KODE = 3  NTRIAL =   6  T = 338.2985  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1727.94    
+      KODE = 3  NTRIAL =   6  T = 338.0012  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1713.15    
+      KODE = 3  NTRIAL =   4  T = 337.7056  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1698.59    
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK HX-2    
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK HX-2    
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK RECUPT  
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK RECUPT  
+
+      BEGIN HEATX TQ-CURVE REPORT FOR BLOCK B2      
+
+      BEGIN COLD-TQCURVE INLET   
+
+      BEGIN HOT-TQCURVE  INLET   
+      END HEATX TQ-CURVE REPORT FOR BLOCK B2      
+
+ Results generated                                                                Time =     69.47
+
+RUN SAVED
+
+
+
+ NO ERRORS OR WARNINGS GENERATED

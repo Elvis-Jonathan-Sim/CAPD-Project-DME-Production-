@@ -1,0 +1,10 @@
+INPUT: Linear_Model_merged.inm
+MODNAME: apmain
+RUNID: Linear_Model_merged
+NEW_RUNID: Linear_Model_merged
+OLD_RUNID: Linear_Model_merged
+PDF: Linear_Model_merged.appdf
+USERNAME: CAPD18
+XMOD: C:\Program Files (x86)\AspenTech\Aspen Plus V10.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _5138sid.ads
