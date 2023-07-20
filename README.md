@@ -1,12 +1,12 @@
 # CAPD Project: DME-Production
 
-**Authors:** 
+### Authors: 
 - Elvis Sim
 - Ilias Chair
 - Zezheng Li 
 
 ## Introduction 
-This respository was created for team project within the course of "**Computer-Aided Process Design**". The finalised merged flowsheet could be found within the file: `Final Flowsheet`. The flowsheet consists of three main sections: **Steam-Methane Reforming**, **Methanol Synthesis**, and **Dimethyl-Ether (DME) Synthesis**. The whole process integrates **combine heat and power plant (CHP)** in the form of rankine cycle to mitigate utilities requirements within the process. 
+This respository was created for team project within the course of "**Computer-Aided Process Design**". The finalised merged flowsheet could be found within the file: `Final Flowsheet`. The flowsheet consists of three main sections: **"Steam-Methane Reforming"**, **"Methanol Synthesis"**, and **"Dimethyl-Ether (DME) Synthesis"**. The whole process integrates **combine heat and power plant (CHP)** in the form of *rankine cycle* to mitigate utilities requirements within the process. 
 
 ## Project Background 
 Within the modern industrial engineering milieu, methanol and dimethyl ether (DME)
