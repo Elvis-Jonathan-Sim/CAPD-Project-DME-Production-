@@ -1,3 +1,0 @@
-Here contains the flowsheet (rigorous and linear) model for dimethyl-ether synthesis simulated in Aspen Plus V10 
-
-Designed by : Ilias Chair 
